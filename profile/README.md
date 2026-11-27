@@ -16,7 +16,7 @@ At **EVERYTHING LTD**, we build reliable, scalable software that automates every
 
 ---
 
-### Why Shrenio
+### Why EVERYTHING
 - **Unified ecosystem:** Operations, billing, and analytics designed to work together out of the box.
 - **Practical AI:** Computer vision and automation applied where they save real time and reduce manual errors.
 - **Built for scale:** Clean architecture focused on reliability, security, and everyday usability.
