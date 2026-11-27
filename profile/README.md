@@ -1,6 +1,6 @@
 # Welcome to Shrenio
 
-At **Shrenio**, we build reliable, scalable software that automates everyday operations across education, hospitality, and commerce. From managing institutions to integrating real-time AI vision, we focus on practical technology that works seamlessly at scale.
+At **EVERYTHING LTD**, we build reliable, scalable software that automates everyday operations across education, hospitality, and commerce. From managing institutions to integrating real-time AI vision, we focus on practical technology that works seamlessly at scale.
 
 > Most of our core products are currently developed in private repositories as we prepare for upcoming releases.
 
